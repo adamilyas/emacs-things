@@ -17,6 +17,7 @@ add the following line to bash file `~/.bashrc`
 
 The following is for aesthetics:
 
+```
 ;; BASIC CUSTOMIZATION
 ;; --------------------------------------
 
